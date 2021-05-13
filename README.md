@@ -1,2 +1,1 @@
-# drcoin.sol
-DrCoin.sol
+#DrCoin (DRC)
